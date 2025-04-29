@@ -3,7 +3,7 @@ In this repository you will find some scripts that I created💡 to solve specif
 
 All the code is hard-written in R. It uses a well-known package⚙️, that is ggplot2. Example data (those used in the exercises) is available in the repository.
 
-📁 ##DEG_analysis
+## 📁 `DEG_analyses`
 This folder contains 3 folders with the files used to adress 3 different parts of an exercise about RNA-seq data.
 
 - 📁 `FPKMs_plotting`: files used to plot FPKMs' boxplot and dispersion diagram.
