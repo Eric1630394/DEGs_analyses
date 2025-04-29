@@ -15,6 +15,6 @@ For this problem, we had several data files, such as BAM files📄, txt files wi
 
 
 📁 COG_terms_plotting
-- 📄 `DEGs_woth_COGs`: COG term for every differentially expressed gene associated to a locus_tag. 
+- 📄 `DEGs_woth_COGs.csv`: COG term for every differentially expressed gene associated to a locus_tag. 
 - 💻 `COG_terms_plots.R`: script that mathches the COG terms to our DEGs, creates a barplot and computes Fisher's exact test on data. 
 - 🎨 `Barplot_comparison_significance.png`: barplot for the different COG terms distinguished by DEGs and original count. 
